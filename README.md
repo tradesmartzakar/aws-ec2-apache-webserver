@@ -41,14 +41,13 @@ The web server successfully served a custom webpage displaying:
 ## 📸 Screenshots
 
 ### Live Webpage via EC2 Public IP
-![Live EC2 Webpage](screenshots/01-live-ec2-webpage.png)
+![Live EC2 Webpage](01-live-ec2-webpage.png)
 
 ### Security Group Inbound Rules (HTTP / SSH / HTTPS)
-![Security Group Inbound Rules](screenshots/03-security-group-inbound-rules.png)
+![Security Group Inbound Rules](03-security-group-inbound-rules.png)
 
 ### SSH Session Editing index.html on the Server
-![Editing index.html](screenshots/04-ssh-edit-index-html.png)
-
+![Editing index.html](04-ssh-edit-index-html.png)
 
 
 ## 📚 Key Learnings
